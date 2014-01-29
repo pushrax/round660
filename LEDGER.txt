@@ -2,5 +2,5 @@ Global Gitcoin ledger
 ==============
 user-emk6s4lf: 2
 user-qy4eit56: 2
-user-rydah4is: 2
+user-rydah4is: 3
 user-rkhtkvnn: 2
